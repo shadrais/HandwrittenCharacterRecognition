@@ -1,1 +1,1 @@
-# HandwrittenCharacterRecognition
+# Handwritten Character Recognition
